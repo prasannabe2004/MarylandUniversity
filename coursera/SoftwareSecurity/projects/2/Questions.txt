@@ -1,0 +1,2 @@
+One of the BadStore pages has a hidden form field that establishes a new user's privilege level. What is the name of this field?
+email
